@@ -1,0 +1,22 @@
+<html>
+    <head>
+    </head>
+    <style>
+        .carta{
+        width:100px;
+        height:;200px;
+        border:;1px solid black;
+        border-radius:;
+       }
+       .imagem{
+
+        }    
+    </stile>
+    <body>
+        <div class="carta">
+            <p class="primeiro"><br></p>
+                <div class="imagem"></div>
+            <p class="segundo"><br></p>
+        </div>
+    </body>
+</html>
